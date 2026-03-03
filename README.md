@@ -1,48 +1,47 @@
 ## Hi, I'm Shuai 👋
 
-I build web applications and interactive UI.
+Frontend developer based in Tokyo 🇯🇵
 
-- 💻 Focus: Frontend (JavaScript, UI, architecture)
-- 🇯🇵 Currently learning Japanese
-- 🎯 Preparing to study and work in Japan
-- 🛠 Background: SolidWorks
+- 💻 Tech: Vue, JavaScript, UI development
+- 🇯🇵 Japanese: N2 (able to communicate in daily work)
+- 🌏 English: basic
+- 🎯 Seeking frontend opportunities in Japan
 
 ---
 
 ## 🚀 Projects
 
 ### 🎮 Web Game (In Progress)
-A browser-based idle game system.
-- Core loop design
-- Resource & upgrade system
+A browser-based idle game built with JavaScript.
+- Game loop & state management
+- Upgrade system design
 - Scalable structure
 
-### 🎵 Music Player UI
+### 🎵 Music Player UI (Vue)
 Windows Phone inspired interface.
 - Panorama layout
-- Smooth transitions
-- UI/UX experiment
+- Component-based architecture
+- Smooth UI interaction
 
-### 🧩 Frontend Experiments
-Small projects exploring:
-- Interaction design
-- Performance
-- Component structure
-
----
-
-## 📚 Currently Learning
-
-- JavaScript (core + architecture)
-- React (planned)
-- Japanese (N5 → N3)
+### 🧩 Frontend Practice
+- Vue component design
+- UI/UX interaction experiments
+- Performance optimization trials
 
 ---
 
-## 📈 Goal
+## 📚 Currently Improving
 
-Become a job-ready frontend developer in Japan.
+- Vue ecosystem (Composition API, project structure)
+- Frontend engineering practices
+- Business-level Japanese communication
 
 ---
 
-Always learning. Always building.
+## 📍 Location
+
+Tokyo, Japan
+
+---
+
+Ready to work. Open to opportunities.
