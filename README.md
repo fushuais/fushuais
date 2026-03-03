@@ -1,16 +1,48 @@
-## Hi there 👋
+## Hi, I'm Shuai 👋
 
-<!--
-**fushuais/fushuais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build web applications and interactive UI.
 
-Here are some ideas to get you started:
+- 💻 Focus: Frontend (JavaScript, UI, architecture)
+- 🇯🇵 Currently learning Japanese
+- 🎯 Preparing to study and work in Japan
+- 🛠 Background: SolidWorks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Projects
+
+### 🎮 Web Game (In Progress)
+A browser-based idle game system.
+- Core loop design
+- Resource & upgrade system
+- Scalable structure
+
+### 🎵 Music Player UI
+Windows Phone inspired interface.
+- Panorama layout
+- Smooth transitions
+- UI/UX experiment
+
+### 🧩 Frontend Experiments
+Small projects exploring:
+- Interaction design
+- Performance
+- Component structure
+
+---
+
+## 📚 Currently Learning
+
+- JavaScript (core + architecture)
+- React (planned)
+- Japanese (N5 → N3)
+
+---
+
+## 📈 Goal
+
+Become a job-ready frontend developer in Japan.
+
+---
+
+Always learning. Always building.
